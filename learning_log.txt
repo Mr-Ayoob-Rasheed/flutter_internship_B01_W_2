@@ -1,0 +1,9 @@
+Week 1:
+- Learned Dart basics
+- Practiced variables, loops, functions
+- Learned async programming
+
+Week 2:
+- Created github account
+- installed git on my laptop
+- wrote to readme.md 
