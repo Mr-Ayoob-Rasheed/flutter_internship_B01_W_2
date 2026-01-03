@@ -1,42 +1,64 @@
-# flutter_internship_B01_W_2
-Week 2 repository according to a flutter and dart internship at Neuro App
+# Flutter Internship – Batch B01
 
-Ayoob Rasheed
-Batch Number 01
-Internship Start Date: December 18th, 2025
+![Flutter](https://img.shields.io/badge/Flutter-Internship-blue)
+![Dart](https://img.shields.io/badge/Dart-Language-skyblue)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 
-This repository contains my learning and tasks during the Flutter internship.
+## Description
 
-## Open Source Contribution – First Contributions
+This repository documents my **Flutter Internship (Batch B01)** journey.  
 
-### Steps Followed:
+The goal of this repository is to:
+- Learn **Dart & Flutter fundamentals**
+- Practice **Git & GitHub**
 
-1. Forked the repository
-2. Cloned the fork locally
-3. Created a new branch
-4. Added my name to Contributors.md
-5. Committed and pushed changes
-6. Created a Pull Request
+## Table of Contents
 
-### Screenshots:
+- [Installation](#installation)
+- [Usage](#usage)
+- [Weekly Progress](#weekly-progress)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Resources](#resources)
+- [License](#license)
+- [Contact](#contact)
+- [Weekly Progress](#weekly-progress)
 
-#### Forked Repository
+## Installation
+
+### Prerequisites
+- Flutter SDK
+- Dart SDK
+- Git
+- VS Code (recommended)
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/Flutter-Internship-B01.git
+cd Flutter-Internship-B01
+```
+## weekly progress
+Week        Topics                         status
+week 1 | Dart programming fundamentals | Done  
+week 2 | Git & Github Fundamentals     | In progress
+week 3 |                               | pending 
+week 4 |                               | pending
+
+## Screenshots
 ![Fork](screenshots/fork.png)
-
-#### Clone Repository
 ![Clone](screenshots/clone.png)
 
-#### Branch Creation
-![Branch](screenshots/branch.png)
+## Technologies Used
+- Dart
+- Git
+- GitHub
+- VS Code
 
-#### Added Name
-![Edit](screenshots/edit.png)
+## Resources
+- [text](https://dart.dev/guides)
+- [text](https://git-scm.com/doc)
+- [text](https://docs.github.com/)
 
-#### Commit
-![Commit](screenshots/commit.png)
-
-#### push
-![Push](screenshots/push.png)
-
-#### Pull Request
-![PR](screenshots/pr.png)
+## Liscense
+MIT License
+Copyright (c) 2025 Ayoob Rasheed
