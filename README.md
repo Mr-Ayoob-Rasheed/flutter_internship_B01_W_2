@@ -56,9 +56,9 @@ Week    |    Topics                     | status
 - VS Code
 
 ## Resources
-- [text](https://dart.dev/guides)
-- [text](https://git-scm.com/doc)
-- [text](https://docs.github.com/)
+- [Dart](https://dart.dev/guides)
+- [Git](https://git-scm.com/doc)
+- [GitHub](https://docs.github.com/)
 
 ## Liscense
 MIT License
