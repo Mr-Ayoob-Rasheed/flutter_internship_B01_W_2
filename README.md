@@ -38,11 +38,12 @@ git clone https://github.com/your-username/Flutter-Internship-B01.git
 cd Flutter-Internship-B01
 ```
 ## weekly progress
-Week        Topics                         status
-week 1 | Dart programming fundamentals | Done  
-week 2 | Git & Github Fundamentals     | In progress
-week 3 |                               | pending 
-week 4 |                               | pending
+Week    |    Topics                     | status
+|:-----:|-------------------------------|:-------:|
+|week 1 | Dart programming fundamentals | Done  |
+|week 2 | Git & Github Fundamentals     | In progress |
+|week 3 |                               | pending | 
+|week 4 |                               | pending |
 
 ## Screenshots
 ![Fork](screenshots/fork.png)
